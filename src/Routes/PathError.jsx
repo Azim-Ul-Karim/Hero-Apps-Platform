@@ -8,7 +8,7 @@ const PathError = () => {
     return (
         <section className='bg-[#f5f5f5]'>
             <div className='max-w-[1440px] mx-auto p-10 md:p-16 flex flex-col items-center text-center'>
-                <img src="/src/assets/error-404.png" />
+                <img src="https://i.postimg.cc/hGcj0Rt0/error-404.png" />
                 <h1 className='mt-10 font-semibold text-3xl md:text-4xl lg:text-5xl'>
                     Oops, page not found!
                 </h1>

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/src/assets/Apps/forest.png",
+    "image": "https://i.postimg.cc/LsDW0wzJ/forest.png",
     "title": "Forest: Focus For Productivity",
     "companyName": "Seekrtech Co., Ltd.",
     "description": "Forest is an app that helps you stay focused on the important things in life. Whenever you want to focus, plant a tree. Your tree will grow while you focus on your work. Leaving the app halfway will cause your tree to wither. Over time, you will build a beautiful forest that represents your dedication and focus. Each focus session contributes to your virtual forest, and you can even earn coins to plant real trees through our partnership with Trees for the Future. The app uses gamification to make productivity fun and rewarding. You can set different types of trees for different tasks, track your focus time with detailed statistics, and join focus rooms with friends to stay accountable together. Forest has helped millions of users worldwide beat phone addiction and improve their time management skills through its unique combination of focus timer and virtual garden concepts.",
@@ -34,7 +34,7 @@
   },
   {
     "id": 2,
-    "image": "/src/assets/Apps/todo.webp",
+    "image": "https://i.postimg.cc/vH7CV4cx/todo.webp",
     "title": "Todoist: To-Do List & Task Manager",
     "companyName": "Doist Limited",
     "description": "Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm. Todoist is the best to-do list and task manager for professionals and small teams. With Todoist, you can organize everything from personal errands to work projects in one place. The app features natural language input for quick task entry, priority levels to highlight what's important, labels and filters for custom organization, productivity visualization to track your progress, and reminders to keep you on schedule. Todoist integrates with popular tools like Google Calendar, Gmail, Slack, and Amazon Alexa. Whether you're planning a wedding, managing a team at work, or just trying to remember to pay the bills, Todoist helps you accomplish your goals with its clean interface and powerful features. Millions of users trust Todoist to organize their work and life, completing over 2 billion tasks since its launch.",
@@ -67,7 +67,7 @@
   },
   {
     "id": 3,
-    "image": "/src/assets/Apps/notion.png",
+    "image": "https://i.postimg.cc/Hx561NMr/notion.png",
     "title": "Notion: Notes, Docs, Tasks",
     "companyName": "Notion Labs, Inc.",
     "description": "Notion is the all-in-one workspace for your notes, tasks, wikis, and databases. Notion combines notes, docs, projects, and wikis in one connected workspace. Whether you're planning your next big project, documenting meeting notes, or building a company knowledge base, Notion provides the flexibility to work the way you want. The app features customizable templates for various use cases, powerful databases with multiple views (table, board, calendar, gallery), real-time collaboration with team members, advanced formatting options with markdown support, and seamless cross-platform synchronization. Notion adapts to your needs - it can be a simple note-taking app, a project management tool, or a complete company wiki. With its block-based editor, you can create complex documents with embedded databases, images, code snippets, and more. Thousands of teams at companies like Pixar, Nike, and IBM use Notion to collaborate and stay organized.",
@@ -100,7 +100,7 @@
   },
   {
     "id": 4,
-    "image": "/src/assets/Apps/calm.png",
+    "image": "https://i.postimg.cc/WbSXVgdJ/calm.png",
     "title": "Calm: Sleep, Meditation, Relax",
     "companyName": "Calm.com, Inc.",
     "description": "Calm is the #1 app for sleep, meditation and relaxation. Join the millions experiencing better sleep, lower stress, and less anxiety. Calm offers guided meditations, Sleep Stories, breathing programs, stretching exercises, and relaxing music. The app features daily calm sessions to help you develop a consistent meditation practice, sleep stories narrated by celebrities like Matthew McConaughey and Harry Styles, masterclasses taught by world-renowned mindfulness experts, breathing exercises to manage anxiety and stress, and relaxing soundscapes to improve focus or sleep. Calm's Sleep Stories have helped users fall asleep faster and stay asleep longer through soothing narratives and ambient sounds. The app also includes programs for specific needs like managing anxiety, improving focus, building self-esteem, and developing gratitude. With new content added regularly, Calm provides ongoing support for your mental health and wellbeing journey. Recommended by top psychologists, therapists, and mental health experts worldwide.",
@@ -133,7 +133,7 @@
   },
   {
     "id": 5,
-    "image": "/src/assets/Apps/duolingo.png",
+    "image": "https://i.postimg.cc/G2kx5y04/duolingo.png",
     "title": "Duolingo: Language Lessons",
     "companyName": "Duolingo, Inc.",
     "description": "Learn a new language with the world's most-downloaded education app! Duolingo is the fun, free app for learning 40+ languages through quick, bite-sized lessons. Practice speaking, reading, listening, and writing to build your vocabulary and grammar skills. Duolingo's science-based teaching methodology effectively helps you learn languages through spaced repetition, interactive exercises, and immediate feedback. The app features personalized learning paths that adapt to your progress, speaking exercises to improve pronunciation, listening comprehension activities, streak counters to maintain motivation, leaderboards to compete with friends, and offline learning capabilities. Whether you're learning Spanish, French, Japanese, or any of the 40+ supported languages, Duolingo makes language learning accessible and enjoyable for everyone. The app's gamified approach with rewards, levels, and achievements keeps learners engaged and motivated to continue their language journey. With over 500 million registered users worldwide, Duolingo has become the most popular way to learn languages.",
@@ -166,7 +166,7 @@
   },
   {
     "id": 6,
-    "image": "/src/assets/Apps/spotify.webp",
+    "image": "https://i.postimg.cc/Pr6z9H7v/spotify.webp",
     "title": "Spotify: Music and Podcasts",
     "companyName": "Spotify AB",
     "description": "Spotify is a digital music, podcast, and video service that gives you access to millions of songs and other content from creators all over the world. Basic functions such as playing music are totally free, but you can also choose to upgrade to Spotify Premium. Spotify features personalized recommendations based on your listening habits, curated playlists for every mood and activity, podcast streaming with over 4 million titles, offline listening for Premium subscribers, high-quality audio streaming, social sharing features to discover what friends are listening to, and cross-platform synchronization across all your devices. Whether you're working out, relaxing, or commuting, Spotify has the perfect soundtrack for every moment. The app's advanced algorithms learn your musical taste over time and suggest new artists and songs you'll love. With Spotify Connect, you can seamlessly switch between devices without interrupting your listening experience. Join the millions of users who have made Spotify their go-to platform for audio entertainment.",
@@ -199,7 +199,7 @@
   },
   {
     "id": 7,
-    "image": "/src/assets/Apps/headspace.webp",
+    "image": "https://i.postimg.cc/GpDF4ypn/headspace.webp",
     "title": "Headspace: Mindful Meditation",
     "companyName": "Headspace, Inc.",
     "description": "Headspace is your guide to mindfulness and meditation for everyday life. Learn meditation and mindfulness skills from world-class experts. Headspace offers hundreds of guided meditations on topics including stress, focus, anxiety, sleep, and mindfulness. The app features SOS sessions for moments of panic or overwhelm, sleep casts and wind-downs for better rest, moving meditations and focus music for productivity, mindful workouts for physical activity, and courses on specific themes like resilience, relationships, and performance. Headspace's approach makes meditation accessible for beginners while providing depth for experienced practitioners. The app uses animation and simple explanations to demystify meditation and show its benefits for mental health. With just a few minutes per day, users report reduced stress, improved focus, better sleep, and increased happiness. Headspace has been scientifically studied and shown to reduce stress in just 10 days. Join millions of members in over 190 countries who have made Headspace part of their daily routine.",
@@ -232,7 +232,7 @@
   },
   {
     "id": 8,
-    "image": "/src/assets/Apps/fitnesspal.jpg",
+    "image": "https://i.postimg.cc/W40ZNc91/fitnesspal.jpg",
     "title": "MyFitnessPal: Calorie Counter",
     "companyName": "MyFitnessPal, Inc.",
     "description": "MyFitnessPal is the world's largest nutrition and calorie database with over 14 million foods. Track your diet and exercise to achieve your weight loss and fitness goals. MyFitnessPal makes it easy to log your food intake with its barcode scanner, quick-add features, and recipe importer. The app tracks calories, macronutrients, micronutrients, and water intake while providing personalized recommendations based on your goals. Connect with over 50 fitness apps and devices to automatically sync your workouts and steps. MyFitnessPal's community features allow you to connect with friends for motivation and accountability. The app provides detailed progress reports with charts and insights to help you understand your habits and make positive changes. Whether you want to lose weight, build muscle, or simply maintain a healthy lifestyle, MyFitnessPal provides the tools and support you need. With its comprehensive food database and easy tracking interface, MyFitnessPal has helped millions of users lose over 200 million pounds collectively.",
@@ -265,7 +265,7 @@
   },
   {
     "id": 9,
-    "image": "/src/assets/Apps/evernot.png",
+    "image": "https://i.postimg.cc/DyD41wD5/evernot.png",
     "title": "Evernote: Note Organizer",
     "companyName": "Evernote Corporation",
     "description": "Evernote is your second brain for capturing, organizing, and sharing notes across all your devices. Capture ideas when inspiration strikes, manage tasks and to-do lists, and store important documents in one easily searchable place. Evernote supports multiple note formats including text, sketches, photos, audio, web clippings, and file attachments. The app features powerful organization with notebooks, tags, and stacks, optical character recognition to make text in images searchable, document scanning with automatic edge detection, templates for common note types, and seamless synchronization across all platforms. Evernote's web clipper extension lets you save articles, recipes, and research from the web with one click. The app integrates with Google Drive, Slack, Microsoft Teams, and other productivity tools to fit into your existing workflow. Whether you're a student taking lecture notes, a professional managing projects, or someone organizing personal information, Evernote helps you remember everything and work more productively. Trusted by over 225 million users worldwide.",
@@ -298,7 +298,7 @@
   },
   {
     "id": 10,
-    "image": "/src/assets/Apps/pcket.png",
+    "image": "https://i.postimg.cc/Y00jm5xp/pcket.png",
     "title": "Pocket: Save Articles & Videos",
     "companyName": "Read It Later, Inc.",
     "description": "Pocket is your place to save interesting articles, videos, and stories from across the web. When you find something you want to view later, put it in Pocket. The app features a clean, distraction-free reading experience, text-to-speech functionality for listening to articles, permanent copies of web content that won't disappear if the original is deleted, tagging and search to organize your saved items, and recommendations based on your interests. Pocket's algorithm suggests high-quality content from around the web that matches your reading preferences. The app syncs across all your devices so you can pick up where you left off on any platform. With Pocket's text-to-speech feature, you can turn articles into podcasts and listen during your commute or workout. Pocket Premium offers additional features like full-text search of your saved content, suggested tags, and a permanent library of everything you've saved. Used by millions of people worldwide, Pocket helps you curate your personal reading list and discover fascinating content across the internet.",
@@ -331,7 +331,7 @@
   },
   {
     "id": 11,
-    "image": "/src/assets/Apps/gramarly.webp",
+    "image": "https://i.postimg.cc/X7TXpDGm/gramarly.webp",
     "title": "Grammarly: Grammar Keyboard",
     "companyName": "Grammarly, Inc.",
     "description": "Grammarly's free writing app makes sure everything you type is clear, effective, and mistake-free. Grammarly checks for spelling, grammar, punctuation, clarity, engagement, and delivery mistakes across 500,000+ apps and websites. The app features real-time writing suggestions as you type, tone detection to ensure your message comes across as intended, vocabulary enhancement recommendations, genre-specific writing style checks, plagiarism detection for Premium users, and personalized insights about your writing patterns. Grammarly works across platforms including email clients, social media, documents, and messaging apps. The AI-powered writing assistant learns your unique style and provides tailored suggestions to improve your communication. Whether you're writing an important email, a school paper, or a social media post, Grammarly helps you express yourself clearly and confidently. With over 30 million daily active users, Grammarly has become an essential tool for students, professionals, and anyone who wants to improve their writing skills and communicate more effectively.",
@@ -364,7 +364,7 @@
   },
   {
     "id": 12,
-    "image": "/src/assets/Apps/slack.png",
+    "image": "https://i.postimg.cc/pTXLgw4Q/slack.png",
     "title": "Slack: Team Communication",
     "companyName": "Slack Technologies, LLC",
     "description": "Slack is where work happens. Slack is a new way to communicate with your team. It's faster, better organized, and more secure than email. Slack brings all your communication together in one place, with channels for different topics, projects, or teams. The app features real-time messaging with rich formatting options, file sharing and collaboration, voice and video calls, integration with thousands of other work tools, powerful search across all your conversations, and customizable notifications to stay focused. Slack's workflow builder allows you to automate routine tasks without coding. The app's threaded conversations keep discussions organized and easy to follow. With Slack Connect, you can securely collaborate with people outside your organization. Whether your team is in the same office or spread across the globe, Slack provides a digital headquarters where everyone can work together effectively. Used by millions of teams worldwide, from small businesses to Fortune 100 companies, Slack has transformed how people work together.",
@@ -397,7 +397,7 @@
   },
   {
     "id": 13,
-    "image": "/src/assets/Apps/trelo.png",
+    "image": "https://i.postimg.cc/1Rd3jYHH/trelo.png",
     "title": "Trello: Organize Anything",
     "companyName": "Atlassian Corporation Plc",
     "description": "Trello helps teams work more collaboratively and get more done. Trello's boards, lists, and cards enable teams to organize and prioritize projects in a fun, flexible, and rewarding way. Whether you're planning a website redesign, managing a sales pipeline, or organizing a family vacation, Trello adapts to your project needs. The app features customizable boards with drag-and-drop functionality, power-ups to integrate with your favorite tools, automation with Butler to reduce repetitive tasks, due dates and reminders to stay on track, checklists for breaking down complex tasks, and attachments to keep all relevant files in one place. Trello's visual approach to project management makes it easy to see what's being worked on, who's working on it, and where something is in the process. With templates for common workflows and the ability to create custom fields, Trello scales from simple to-do lists to complex project management. Used by over 50 million registered users worldwide, Trello brings flexibility to how teams organize their work.",
@@ -430,7 +430,7 @@
   },
   {
     "id": 14,
-    "image": "/src/assets/Apps/zoom.png",
+    "image": "https://i.postimg.cc/KvL3r22D/zoom.png",
     "title": "Zoom: Video Conferencing",
     "companyName": "Zoom Video Communications, Inc.",
     "description": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and audio conferencing, chat, and webinars. Zoom's frictionless video-first unified communications platform provides video meetings, voice, webinars, and chat across desktops, phones, mobile devices, and conference room systems. The app features HD video and audio, virtual backgrounds to maintain privacy, screen sharing for collaboration, recording and transcription, breakout rooms for smaller group discussions, waiting rooms for meeting security, and integration with calendar systems. Zoom's reliability and ease of use have made it the go-to solution for remote work, online education, telehealth, and social connections. The platform supports meetings with up to 1000 participants and view-only webinars for up to 50,000 attendees. With end-to-end encryption and advanced security features, Zoom ensures your conversations remain private. During the global shift to remote work, Zoom became essential for businesses, schools, and families to stay connected.",
@@ -463,7 +463,7 @@
   },
   {
     "id": 15,
-    "image": "/src/assets/Apps/canva.jfif",
+    "image": "https://i.postimg.cc/Y9hh4cRW/canva.jpg",
     "title": "Canva: Graphic Design & Video",
     "companyName": "Canva Pty Ltd",
     "description": "Canva makes design easy for everyone. Create designs for Web or print: blog graphics, presentations, Facebook covers, flyers, posters, invitations and so much more. Canva features a simple drag-and-drop interface and access to over a million photographs, graphics, and fonts. The app offers thousands of professional templates for social media posts, presentations, letters, reports, and more. With Canva, anyone can create beautiful designs without needing graphic design experience. The platform includes collaboration features for teams, brand kit functionality to maintain consistent branding, animation tools for creating engaging content, and a massive library of stock photos and elements. Canva's magic resize tool instantly adapts designs for different platforms, saving hours of manual work. The app also includes video editing capabilities, presentation mode with presenter notes, and the ability to print products directly through the platform. Used by over 75 million people monthly across 190 countries, Canva has democratized design and empowered everyone to create professional-looking visual content.",
@@ -496,7 +496,7 @@
   },
   {
     "id": 16,
-    "image": "/src/assets/Apps/watapp.jpg",
+    "image": "https://i.postimg.cc/wxR1gp78/watapp.jpg",
     "title": "WhatsApp Messenger",
     "companyName": "WhatsApp LLC",
     "description": "WhatsApp from Facebook is a FREE messaging and video calling app. It's used by over 2B people in more than 180 countries. It's simple, reliable, and private, so you can easily keep in touch with your friends and family. WhatsApp works across mobile and desktop even with slow connections, with no subscription fees. The app features end-to-end encryption for all messages and calls, group chats for staying in touch with family or coworkers, voice and video calls with up to 8 people, document and media sharing, status updates that disappear after 24 hours, and WhatsApp Web for desktop access. WhatsApp's simplicity and reliability have made it the world's most popular messaging app. The platform continues to add new features like disappearing messages, business catalogs, and payment options while maintaining its commitment to privacy and security. Whether you're coordinating with colleagues, sharing moments with friends, or keeping in touch with family across the globe, WhatsApp provides a seamless communication experience.",
@@ -529,7 +529,7 @@
   },
   {
     "id": 17,
-    "image": "/src/assets/Apps/insta.webp",
+    "image": "https://i.postimg.cc/sgmXwf0X/insta.webp",
     "title": "Instagram",
     "companyName": "Meta Platforms, Inc.",
     "description": "Instagram is a free photo and video sharing app available on Apple iOS, Android and Windows Phone. People can upload photos or videos to our service and share them with their followers or with a select group of friends. They can also view, comment and like posts shared by their friends on Instagram. The app features Stories that disappear after 24 hours, Reels for short-form video content, IGTV for longer videos, Direct messaging for private conversations, Shopping features for discovering and buying products, and an Explore page for discovering new content. Instagram has become a cultural phenomenon, transforming how people share moments, discover creativity, and connect with brands and creators. The platform continues to evolve with features like Guides for curated content, Live Rooms for multi-guest broadcasts, and enhanced creator tools. Whether you're sharing everyday moments, building a business, or exploring your interests, Instagram provides a visual platform for connection and creativity.",
@@ -562,7 +562,7 @@
   },
   {
     "id": 18,
-    "image": "/src/assets/Apps/tikt.webp",
+    "image": "https://i.postimg.cc/pTwXpmyZ/tikt.webp",
     "title": "TikTok: Videos, Music & LIVE",
     "companyName": "TikTok Pte. Ltd.",
     "description": "TikTok is THE destination for mobile videos. On TikTok, short-form videos are exciting, spontaneous, and genuine. Whether you're a sports fanatic, a pet enthusiast, or just looking for a laugh, there's something for everyone on TikTok. The app features a personalized feed of entertaining videos, powerful editing tools to create your own content, duets and reactions to interact with other creators, trending sounds and effects, LIVE streaming capabilities, and a global community of creators. TikTok's algorithm learns your preferences and serves you content that matches your interests, making discovery effortless and engaging. The platform has launched countless trends, songs, and creators into mainstream popularity. With features like the Creator Fund, TikTok has become a viable platform for content creators to earn an income. Whether you want to watch entertaining content, express your creativity, or connect with like-minded people, TikTok offers an immersive and dynamic video experience.",
@@ -595,7 +595,7 @@
   },
   {
     "id": 19,
-    "image": "/src/assets/Apps/netf.png",
+    "image": "https://i.postimg.cc/vHdZyxJ8/netf.png",
     "title": "Netflix",
     "companyName": "Netflix, Inc.",
     "description": "Netflix is the world's leading streaming entertainment service with over 200 million paid memberships in over 190 countries enjoying TV series, documentaries and feature films across a wide variety of genres and languages. Members can watch as much as they want, anytime, anywhere, on any internet-connected screen. Members can play, pause and resume watching, all without commercials or commitments. The app features personalized recommendations based on your viewing history, multiple profiles for different family members, download options for offline viewing, parental controls, and support for multiple languages and subtitles. Netflix invests heavily in original content, producing award-winning series, films, and documentaries that have redefined entertainment. The platform's sophisticated algorithm helps you discover new favorites while its user-friendly interface makes browsing enjoyable. Whether you're into drama, comedy, documentaries, or international content, Netflix offers an unparalleled streaming experience with something for every taste and mood.",
@@ -628,7 +628,7 @@
   },
   {
     "id": 20,
-    "image": "/src/assets/Apps/telegra.webp",
+    "image": "https://i.postimg.cc/7Lbx93zr/telegra.webp",
     "title": "Telegram Messenger",
     "companyName": "Telegram FZ-LLC",
     "description": "Telegram is a globally accessible freemium, cross-platform, cloud-based instant messaging service. The service also provides end-to-end encrypted video calling, VoIP, file sharing and several other features. It is known for its focus on speed and security, offering features like secret chats with end-to-end encryption, self-destructing messages, and large group chats and channels that can hold up to 200,000 members. Users can send large files up to 2 GB and access their messages from multiple devices at once, including desktops and tablets, thanks to its seamless cloud sync.",
@@ -661,7 +661,7 @@
   },
   {
     "id": 21,
-    "image": "/src/assets/Apps/linked.png",
+    "image": "https://i.postimg.cc/CLYSXT80/linked.png",
     "title": "LinkedIn: Jobs & Business News",
     "companyName": "LinkedIn Corporation",
     "description": "LinkedIn is the world's largest professional network with over 850 million members in more than 200 countries and territories worldwide. It is the go-to platform for anyone looking to navigate their professional life. Members can build and engage with their professional network, access knowledge, insights and opportunities, and find jobs and internships. The app features a comprehensive profile that acts as a professional resume, a powerful job search engine with tailored alerts, and a dynamic feed with news and articles from industry leaders. LinkedIn also offers a robust learning platform with courses taught by real-world experts. Whether you're a recent graduate looking for your first job, a seasoned professional aiming for career growth, or a business owner trying to expand your network, LinkedIn provides the tools to connect, learn, and succeed in your professional journey.",
@@ -694,7 +694,7 @@
   },
   {
     "id": 22,
-    "image": "/src/assets/Apps/pint.png",
+    "image": "https://i.postimg.cc/QMB31XLX/pint.png",
     "title": "Pinterest",
     "companyName": "Pinterest, Inc.",
     "description": "Pinterest is the visual discovery engine for finding inspiration for all of your interests. With billions of Pins from around the world, you can find ideas for everything from cooking new recipes to planning your next vacation. Members use Pinterest to discover home decor ideas, find style inspiration, explore new hobbies, and much more. The platform allows you to save, or 'Pin', ideas to organized boards, making it easy to keep track of your inspirations. Key features include a powerful visual search tool that lets you find similar items from a photo, shoppable Pins to buy products directly, and Idea Pins, a multi-page video format for creators to share their ideas in action. Whether you're planning a project or just exploring your passions, Pinterest provides an endless catalog of ideas to spark creativity and help you create a life you love.",
@@ -727,7 +727,7 @@
   },
   {
     "id": 23,
-    "image": "/src/assets/Apps/reddi.png",
+    "image": "https://i.postimg.cc/D0ckn0G0/reddi.png",
     "title": "Reddit",
     "companyName": "Reddit, Inc.",
     "description": "Reddit is a massive network of communities, known as 'subreddits', where millions of people connect over their shared interests and passions. With over 100,000 active communities, there's a place for everyone, whether you're interested in breaking news, sports, gaming, memes, or niche hobbies. Users can share content such as links, text posts, images, and videos, which are then voted up or down by other members, determining their visibility on the site. The platform is built on conversation, with threaded comments allowing for deep and engaging discussions. Reddit's features include custom feeds to follow your favorite communities, anonymous browsing, and a 'karma' system that reflects a user's contributions to the community. Whether you want to learn something new, ask for advice, or just be entertained, Reddit offers an authentic and community-driven experience unlike any other.",
@@ -760,7 +760,7 @@
   },
   {
     "id": 24,
-    "image": "/src/assets/Apps/disco.png",
+    "image": "https://i.postimg.cc/qMkHQcf2/disco.png",
     "title": "Discord: Talk, Chat & Hang Out",
     "companyName": "Discord Inc.",
     "description": "Discord is a voice, video, and text communication service used by over a hundred million people to hang out and talk with their friends and communities. The platform is organized into servers, which are invite-only spaces where you can chat about anything from gaming and art to school projects and mental health. Each server is made up of text and voice channels, allowing for organized conversations and seamless communication. Discord's high-quality, low-latency voice chat makes it feel like you're in the same room with your friends. Key features include screen sharing, custom emojis, robust role and permission systems, and integrations with other apps like Spotify and Twitch. Whether you're part of a small group of friends or a large online community, Discord provides an easy and reliable way to stay connected and have fun together every day.",

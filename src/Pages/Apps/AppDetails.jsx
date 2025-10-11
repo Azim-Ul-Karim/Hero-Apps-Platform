@@ -50,7 +50,7 @@ const AppDetails = () => {
                         <hr className='w-full border-gray-400 my-6' />
                         <div className='flex gap-10 md:gap-20 mb-6'>
                             <div>
-                                <img src="/src/assets/icon-downloads.png" className='w-8 h-8' />
+                                <img src="https://i.postimg.cc/bvpJRfw9/icon-downloads.png" className='w-8 h-8' />
                                 <p className='text-sm md:text-base my-1.5'>
                                     Downloads
                                 </p>
@@ -59,7 +59,7 @@ const AppDetails = () => {
                                 </h1>
                             </div>
                             <div>
-                                <img src="/src/assets/icon-ratings.png" className='w-8 h-8' />
+                                <img src="https://i.postimg.cc/8CN5bgzZ/icon-ratings.png" className='w-8 h-8' />
                                 <p className='text-sm md:text-base my-1.5'>
                                     Average Ratings
                                 </p>
@@ -68,7 +68,7 @@ const AppDetails = () => {
                                 </h1>
                             </div>
                             <div>
-                                <img src="/src/assets/icon-review.png" className='w-8 h-8' />
+                                <img src="https://i.postimg.cc/mrBDSWgd/icon-review.png" className='w-8 h-8' />
                                 <p className='text-sm md:text-base my-1.5'>
                                     Total Reviews
                                 </p>

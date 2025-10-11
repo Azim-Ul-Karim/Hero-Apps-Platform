@@ -15,18 +15,18 @@ export const router = createBrowserRouter([
         children: [
             {
                 index: true,
-                loader: () => fetch(`https://jsonkeeper.com/b/KFDTG`),
+                loader: () => fetch(`/AllApps.json`),
                 Component: Home
             },
             {
                 path: 'apps',
-                loader: () => fetch(`https://jsonkeeper.com/b/KFDTG`),
+                loader: () => fetch(`/AllApps.json`),
                 Component: Apps
             },
             {
                 path: 'apps/:appsId',
                 loader: async ({ params }) => {
-                    const res = await fetch(`https://jsonkeeper.com/b/KFDTG`);
+                    const res = await fetch(`/AllApps.json`);
                     const data = await res.json();
                     const app = data.find(item => item.id == params.appsId);
                     return app || null;

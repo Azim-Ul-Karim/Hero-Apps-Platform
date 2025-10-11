@@ -14,13 +14,13 @@ const Card = ({ card }) => {
                 </h3>
                 <div className='flex items-center justify-between'>
                     <button className='bg-[#F1F5E8] flex items-center gap-2 px-3 py-1 rounded-sm'>
-                        <img src="/src/assets/icon-downloads.png" className='w-4 h-4' />
+                        <img src="https://i.postimg.cc/bvpJRfw9/icon-downloads.png" className='w-4 h-4' />
                         <p className='text-[#00D390]'>
                             {downloads}
                         </p>
                     </button>
                     <button className='bg-[#FFF0E1] flex items-center gap-2 px-3 py-1 rounded-sm'>
-                        <img src="/src/assets/icon-ratings.png" className='w-4 h-4' />
+                        <img src="https://i.postimg.cc/8CN5bgzZ/icon-ratings.png" className='w-4 h-4' />
                         <p className='text-[#FF8811]'>
                             {ratingAvg}
                         </p>

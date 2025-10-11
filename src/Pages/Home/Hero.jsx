@@ -21,19 +21,19 @@ const Hero = () => {
                 <div className='flex gap-4'>
                     <Link to='https://play.google.com/store/'>
                         <button className='flex items-center justify-center gap-3 border-2 border-[#D2D2D2] rounded-md md:text-lg lg:text-xl font-semibold w-40 md:w-43 lg:w-46 py-2 cursor-pointer'>
-                            <img src="/src/assets/google.png" className='w-[25px] h-[25px]' />
+                            <img src="https://i.postimg.cc/HLdxt1kb/google.png" className='w-[25px] h-[25px]' />
                             <p>Google Play</p>
                         </button>
                     </Link>
                     <Link to='https://www.apple.com/app-store/'>
                         <button className='flex items-center justify-center gap-3 border-2 border-[#D2D2D2] rounded-md md:text-lg lg:text-xl font-semibold w-40 md:w-43 lg:w-46 py-2 cursor-pointer'>
-                            <img src="/src/assets/apple.png" className='w-[25px] h-[25px]' />
+                            <img src="https://i.postimg.cc/KYxz5h8g/apple.png" className='w-[25px] h-[25px]' />
                             <p>App Store</p>
                         </button>
                     </Link>
                 </div>
                 <div className='max-w-3xl mt-6'>
-                    <img src="/src/assets/hero.png" className='w-full' />
+                    <img src="https://i.postimg.cc/FKNRxXHZ/hero.png" className='w-full' />
                 </div>
             </div>
         </section>

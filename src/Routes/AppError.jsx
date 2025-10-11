@@ -16,7 +16,7 @@ const AppError = ({ compact, onReset }) => {
     if (compact) {
         return (
             <div className='col-span-full p-10 md:p-16 flex flex-col items-center justify-center text-center'>
-                <img src="/src/assets/App-Error.png" />
+                <img src="https://i.postimg.cc/BvCWfXfr/App-Error.png" />
                 <h1 className='mt-10 font-semibold text-3xl md:text-4xl lg:text-5xl'>
                     OPPS!!! APP NOT FOUND
                 </h1>
@@ -33,7 +33,7 @@ const AppError = ({ compact, onReset }) => {
     return (
         <section className='bg-[#f5f5f5]'>
             <div className='max-w-[1440px] mx-auto p-10 md:p-16 flex flex-col items-center text-center'>
-                <img src="/src/assets/App-Error.png" className='' />
+                <img src="/assets/App-Error.png" className='' />
                 <h1 className='mt-10 font-semibold text-3xl md:text-4xl lg:text-5xl'>
                     OPPS!!! APP NOT FOUND
                 </h1>

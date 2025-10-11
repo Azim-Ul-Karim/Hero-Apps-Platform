@@ -21,7 +21,7 @@ const NavBar = () => {
                     <NavLink to='/installation'>Installation</NavLink>
                 </div>
                 <Link className='flex items-center gap-2' to='/'>
-                    <img src="/src/assets/logo.png" alt="Logo" className='w-[40px] h-[40px]' />
+                    <img src="https://i.postimg.cc/LsDsCQJT/logo.png" alt="Logo" className='w-[40px] h-[40px]' />
                     <h4 className='md:text-lg font-bold bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</h4>
                 </Link>
             </span>

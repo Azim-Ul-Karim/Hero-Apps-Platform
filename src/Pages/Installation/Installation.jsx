@@ -90,7 +90,7 @@ const Installation = () => {
                                         <div className='flex gap-4 md:gap-6 lg:gap-8 mt-2 md:mt-4'>
                                             <button className='flex items-center gap-2'>
                                                 <img
-                                                    src="/src/assets/icon-downloads.png"
+                                                    src="https://i.postimg.cc/bvpJRfw9/icon-downloads.png"
                                                     className='w-3 md:w-4 h-3 md:h-4'
                                                 />
                                                 <p className='font-medium text-xs md:text-base text-[#00D390]'>
@@ -100,7 +100,7 @@ const Installation = () => {
 
                                             <button className='flex items-center gap-2'>
                                                 <img
-                                                    src="/src/assets/icon-ratings.png"
+                                                    src="https://i.postimg.cc/8CN5bgzZ/icon-ratings.png"
                                                     className='w-3 md:w-4 h-3 md:h-4'
                                                 />
                                                 <p className='font-medium text-xs md:text-base text-[#FF8811]'>

@@ -13,7 +13,7 @@ const Footer = () => {
 
                 <div className='md:col-span-2'>
                     <div className='flex items-center gap-2'>
-                        <img src="/src/assets/logo.png" alt="Logo" className='w-[40px] h-[40px]' />
+                        <img src="https://i.postimg.cc/LsDsCQJT/logo.png" alt="Logo" className='w-[40px] h-[40px]' />
                         <h4 style={footerTitle} className='md:text-lg font-bold'>HERO.IO</h4>
                     </div>
                     <p style={footerContent} className='text-sm md:text-base mt-4 max-w-96'>
