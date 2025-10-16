@@ -4,7 +4,7 @@
 
 ## Description
 
-**Hero.IO** is a modern web application that serves as a digital storefront for productive apps. 
+**[Hero.IO](https://hero-apps-platform.netlify.app/)** is a modern web application that serves as a digital storefront for productive apps. 
 At HERO.IO, we craft innovative apps designed to make everyday life simpler, smarter, and more engaging.  
 
 This platform allows users to **browse, search, and manage** a curated collection of applications aimed at boosting productivity and focus. 
