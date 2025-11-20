@@ -81,5 +81,5 @@ npm i
 ```
 npm run dev
 ```
-## Vist Here: 
+## Visit Here: 
 https://hero-apps-platform.netlify.app/
